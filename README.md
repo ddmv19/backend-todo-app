@@ -6,6 +6,12 @@ This repository contains the code of the backend project for a task management A
 
 This API is responsible for providing RESTful services for task management. It is developed use Node.js Express as the main framework, along with with other technologies such as CORS for security policy management, Dotenv for environment variable management, Express-validator for data validation, Mongoose for communication with the MongoDB database, and Nodemon for automatic server restar during devolopment.
 
+## Frontend Repository
+
+If you are interested in explore the frontend project associated with this API of Todos, can find the repository in the following link:
+
+[Frontend Project Repository](https://github.com/ddmv19/frontend-todo-app)
+
 ## Previous Requirements
 
 This project use environment variables to configure important aspects of application. The required environment variables are listed bellow:
